@@ -41,4 +41,4 @@ Este projeto foi construído **sem dependências externas** (sem `pip install`),
 3.  O relatório abrirá no seu navegador padrão.
 
 ---
-**Atenciosmente, Gustavo Percoski.**
+**Developed by Gustavo Percoski.**
