@@ -41,4 +41,23 @@ Este projeto foi construído **sem dependências externas** (sem `pip install`),
 3.  O relatório abrirá no seu navegador padrão.
 
 ---
-**Developed by Gustavo Percoski.**
+
+<div align="center">
+
+### Development by *Gustavo Percoski*
+
+<a href="https://www.linkedin.com/in/gustavo-percoski/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:gustavopercoski2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/gustavopercoski2-prog" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
