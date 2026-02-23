@@ -44,7 +44,7 @@ Este projeto foi construído **sem dependências externas** (sem `pip install`),
 
 <div align="center">
 
-### Development by *Gustavo Percoski*
+### Developed by Gustavo Percoski
 
 <a href="https://www.linkedin.com/in/gustavo-percoski/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
